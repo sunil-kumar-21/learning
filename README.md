@@ -1,4 +1,4 @@
-#Kubernetes Deployments 
+*Kubernetes Deployments 
 ##Septs for AWS
 1. Setup AWS CLI ( [Follow Online Doc](https://docs.aws.amazon.com/polly/latest/dg/setup-aws-cli.html) )
 1. Create AWS ECR ([Elastic Container Registery](https://docs.aws.amazon.com/ecr/index.html))
